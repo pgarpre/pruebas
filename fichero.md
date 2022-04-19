@@ -1,0 +1,4 @@
+# jajaja
+´´´bash
+cd ~
+´´´
